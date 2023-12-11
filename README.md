@@ -8,5 +8,5 @@ poetry install
 Run
 
 ```
-uvicorn src:app
+poetry run uvicorn src:app
 ```
